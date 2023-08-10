@@ -1,3 +1,7 @@
+# This is Tailwind appreciation repository.
+It demonstrates how easy and rapid your production might be with Tailwind.
+hashtag never go back to native css. hashtag bootstrap L. hashtag Peace.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
