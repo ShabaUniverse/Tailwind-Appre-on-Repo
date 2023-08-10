@@ -1,5 +1,6 @@
 import Analytics from "./components/Analytics"
 import Cards from "./components/Cards"
+import DownFooter from "./components/DownFooter"
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
@@ -14,6 +15,7 @@ function App() {
       <NewsLetter />
       <Cards />
       <Footer />
+      <DownFooter />
     </div>
   )
 }
